@@ -5,7 +5,7 @@ COMP 396 Research Project - Supervised by Prof. Vybihal
 
 Prometheus AI models the human brain to control a swarm robotics system.
 
-More information about the general project can be found [here] (https://github.com/seanstappas/prometheus-ai/tree/master/reports)
+More information about the general project can be found [here](https://github.com/seanstappas/prometheus-ai/tree/master/reports)
 
 From June - August 2017, I implemented various features in the Expert System (ES), one of the various layers of Prometheus AI, as well developing the 'TAG' data structure used by the KNN and ES layers.
 
@@ -13,11 +13,11 @@ From June - August 2017, I implemented various features in the Expert System (ES
 
 * Java 8
 * TestNG
-* [KNN] (https://github.com/seanstappas/prometheus-ai/tree/master/src/main/java/knn)
+* [KNN](https://github.com/seanstappas/prometheus-ai/tree/master/src/main/java/knn)
 
 ## Documentation
 
-The latest JavaDoc for Prometheus AI can be found [here] (http://seanstappas.me/prometheus-ai/)
+The latest JavaDoc for Prometheus AI can be found [here](http://seanstappas.me/prometheus-ai/)
 
 ## Changes To ES
 
